@@ -73,7 +73,7 @@ Here's how a client sends and receives messages with the ``threading`` API:
             message = websocket.recv()
             print(f"Received: {message}")
 
-    hello()
+    hello('print')
 
 
 Does that look good?
