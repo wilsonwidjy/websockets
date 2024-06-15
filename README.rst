@@ -22,7 +22,7 @@
 .. |openssf| image:: https://bestpractices.coreinfrastructure.org/projects/6475/badge
    :target: https://bestpractices.coreinfrastructure.org/projects/6475
 
-What is ``websockets``?
+What is ``websockets``
 -----------------------
 
 websockets is a library for building WebSocket_ servers and clients in Python
